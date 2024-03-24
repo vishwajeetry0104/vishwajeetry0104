@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajeetry0104" alt="vishwajeetry0104" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS**
-
 - 📝 I regularly write articles on [https://medium.com/@vishwajeetry0104](https://medium.com/@vishwajeetry0104)
 
 - 💬 Ask me about **React native, React, Hooks, Redux**
